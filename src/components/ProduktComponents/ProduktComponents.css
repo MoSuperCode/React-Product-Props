@@ -1,0 +1,19 @@
+img {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.div {
+    margin: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: rgb(230, 53, 21);
+    color: white;
+    border-radius: 25px;
+    border: none;
+}
